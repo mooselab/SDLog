@@ -1,0 +1,2001 @@
+logs,labels
+Notification time out: 3200,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Unexpected Exception:,O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Server environment:user.dir=/,O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+LOOKING,O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Interrupting SendWorker,O O
+Notification time out: 3200,O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+caught end of stream exception,O O O O O
+caught end of stream exception,O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+My election bind port: 0.0.0.0/0.0.0.0:3888,O O O O B-NET
+"Have smaller server identifier, so dropping the connection: (2, 1)",O O O O O O O O O O
+FOLLOWING,O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+LOOKING,O
+"New election. My id =  1, proposed zxid=0x700000000",O O O O O B-ID O O
+Server environment:user.dir=/,O O
+FOLLOWING - LEADER ELECTION TOOK - 49,O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+caught end of stream exception,O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+"Notification: 3 (n.leader), 0x700000197 (n.zxid), 0x1 (n.round), LEADING (n.state), 3 (n.sid), 0x7 (n.peerEPoch), LOOKING (my state)",O O O O O O O O O O O O O O O O
+FOLLOWING - LEADER ELECTION TOOK - 49,O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+caught end of stream exception,O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+autopurge.snapRetainCount set to 3,O O O O
+Server environment:user.dir=/,O O
+Revalidating client: 0x14f05578bd80018,O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115,O O O O O O O B-NET
+Server environment:user.dir=/,O O
+Server environment:user.dir=/,O O
+Revalidating client: 0x14f05578bd80018,O O O
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Server environment:user.dir=/,O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.11:56471 (no session established for client),O O O O O B-NET O O O O O
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,O O O O O O O O O O O O
+"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",O O O O O O O O O O O O O O O O
+"Notification: 3 (n.leader), 0xb0000007b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0xb (n.peerEPoch), FOLLOWING (my state)",O O O O O O O O O O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+tickTime set to 2000,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Notification time out: 3200,O O O O
+Notification time out: 3200,O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Server environment:user.dir=/,O O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+******* GOODBYE /10.10.34.12:35276 ********,O O B-NET O
+Unexpected exception causing shutdown while sock still open,O O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Got user-level KeeperException when processing sessionid:0x34ed93485090001 type:create cxid:0x55b8bb0f zxid:0x100000010 txntype:-1 reqpath:n/a Error Path:/home/curi/.zookeeper Error:KeeperErrorCode = NodeExists for /home/curi/.zookeeper,O O O O O O O O O O O O B-PATH O O O O B-PATH
+caught end of stream exception,O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Send worker leaving thread,O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",O O O O O O O O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+caught end of stream exception,O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+caught end of stream exception,O O O O O
+caught end of stream exception,O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Starting quorum peer,O O O
+Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,O O O B-PATH
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+autopurge.purgeInterval set to 0,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Snapshotting: 0x300000dcd to /var/lib/zookeeper/version-2/snapshot.300000dcd,O O O B-PATH
+Follower sid: 3 : info : org.apache.zookeeper.server.quorum.QuorumPeer$QuorumServer@33557fe4,O O B-ID O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+caught end of stream exception,O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Revalidating client: 0x14f05578bd80018,O O O
+autopurge.purgeInterval set to 0,O O O O
+maxSessionTimeout set to -1,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+FOLLOWING,O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to renew session 0x24ed93119420016 at /10.10.34.13:37115,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Server environment:user.dir=/,O O
+Have quorum of supporters; starting up and setting last processed zxid: 0xb00000000,O O O O O O O O O O O O
+"Notification: 2 (n.leader), 0xa0000009a (n.zxid), 0x1 (n.round), FOLLOWING (n.state), 1 (n.sid), 0xa (n.peerEPoch), LEADING (my state)",O O O O O O O O O O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+shutdown of request processor complete,O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,O O O O O O O O O O O O
+Closed socket connection for client /10.10.34.11:56471 (no session established for client),O O O O O B-NET O O O O O
+Exception causing close of session 0x0 due to java.io.IOException: ZooKeeperServer not running,O O O O O O O O O O O O
+First is 0x0,O O O
+"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",O O O O O O O O O O O O O O O O
+"Notification: 3 (n.leader), 0x10000006b (n.zxid), 0x2 (n.round), LOOKING (n.state), 3 (n.sid), 0x1 (n.peerEPoch), LEADING (my state)",O O O O O O O O O O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+autopurge.purgeInterval set to 0,O O O O
+Reading snapshot /var/lib/zookeeper/version-2/snapshot.b00000084,O O B-PATH
+Sending DIFF,O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
+LOOKING,O
+Getting a snapshot from leader,O O O O O
+Cannot open channel to 2 at election address /10.10.34.12:3888,O O O O O O O O B-NET
+"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",O O O O O O O O O O O O O O O O
+"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",O O O O O O O O O O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupting SendWorker,O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Send worker leaving thread,O O O O
+Send worker leaving thread,O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Send worker leaving thread,O O O O
+Interrupting SendWorker,O O
+Interrupted while waiting for message on queue,O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Interrupting SendWorker,O O
+Closed socket connection for client /10.10.34.11:56471 (no session established for client),O O O O O B-NET O O O O O
+"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",O O O O O O O O O O O O O O O O
+Closed socket connection for client /10.10.34.11:56471 (no session established for client),O O O O O B-NET O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+caught end of stream exception,O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+caught end of stream exception,O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+caught end of stream exception,O O O O O
+"Connection broken for id 188978561024, my id = 1, error =",O O O O B-ID O O O B-ID O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+LOOKING,O
+"Notification: 3 (n.leader), 0x100001564 (n.zxid), 0x3 (n.round), FOLLOWING (n.state), 3 (n.sid), 0x2 (n.peerEPoch), FOLLOWING (my state)",O O O O O O O O O O O O O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+caught end of stream exception,O O O O O
+minSessionTimeout set to -1,O O O O
+Server environment:user.dir=/,O O
+Server environment:user.dir=/,O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+caught end of stream exception,O O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Connection request from old client /10.10.34.19:33442; will be dropped if server is in r-o mode,O O O O O B-NET O O O O O O O O O
+Received connection request /10.10.34.11:45307,O O O B-NET
+minSessionTimeout set to -1,O O O O
+Server environment:user.dir=/,O O
+Getting a snapshot from leader,O O O O O
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+Accepted socket connection from /10.10.34.13:37196,O O O O B-NET
+Established session 0x14ed93111f20027 with negotiated timeout 10000 for client /10.10.34.13:37177,O O O O O O O O O B-NET
+"Notification: 2 (n.leader), 0xb00000084 (n.zxid), 0x2 (n.round), LOOKING (n.state), 1 (n.sid), 0xb (n.peerEPoch), LOOKING (my state)",O O O O O O O O O O O O O O O O
+Client attempting to establish new session at /10.10.34.19:33425,O O O O O O O B-NET
+Closed socket connection for client /10.10.34.18:42772 which had sessionid 0x14ed93111f20005,O O O O O B-NET O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+"Expiring session 0x24ede63a01b003b, timeout of 10000ms exceeded",O O O O O O O
+Processed session termination for sessionid: 0x14ede63a5a70002,O O O O O B-ID
