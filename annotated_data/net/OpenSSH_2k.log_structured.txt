@@ -1,0 +1,4942 @@
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+123.235.32.19	B-IP
+
+123.235.32.19	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+173.234.31.186	B-IP
+
+123.235.32.19	B-IP
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+195.154.37.122:	B-IP
+3:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+195.154.37.122:	B-IP
+3:	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+123.235.32.19	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+5.188.10.180	B-IP
+49811	B-PORT
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+5.188.10.180	B-IP
+49811	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+123.235.32.19	B-IP
+
+123.235.32.19	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+123.235.32.19	B-IP
+
+173.234.31.186	B-IP
+
+5.188.10.180	B-IP
+49811	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=5.188.10.180	B-IP
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+123.235.32.19	B-IP
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+123.235.32.19	B-IP
+
+173.234.31.186	B-IP
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.207.39.165:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+ns.marryaldkfaczcz.com	B-HOST
+[173.234.31.186]	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+173.234.31.186	B-IP
+
+119.137.62.142	B-IP
+49116	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+119.137.62.142:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+5.188.10.180	B-IP
+49811	B-PORT
+
+173.234.31.186	B-IP
+
+123.235.32.19	B-IP
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+rhost=5.188.10.180	B-IP
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+173.234.31.186	B-IP
+38926	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+103.99.0.122:	B-IP
+14:	B-PORT
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+
+rhost=173.234.31.186	B-IP
+
+5.36.59.76	B-IP
+42393	B-PORT
+
+52.80.34.196:	B-IP
+11:	B-PORT
+
+rhost=5.36.59.76.	B-IP
+dynamic-dsl-ip.omantel.net.om	B-HOST
+
+173.234.31.186	B-IP
+38926	B-PORT
+

@@ -1,0 +1,3481 @@
+[hdfs://msra-sa-41:	B-HOST
+9000]	B-PORT
+
+[hdfs://msra-sa-41:	B-HOST
+9000]	B-PORT
+
+[hdfs://msra-sa-41:	B-HOST
+9000]	B-PORT
+
+62260	B-PORT
+
+MININT-FNANLI5.fareast.corp.microsoft.com/	B-HOST
+10.86.169.121:	B-IP
+62260	B-PORT
+
+62267	B-PORT
+
+0.0.0.0:	B-IP
+62267	B-PORT
+
+62260	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+8030	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+[04DN8IQ.fareast.corp.microsoft.com:	B-HOST
+54883]	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com:	B-HOST
+28345,	B-PORT
+MSRA-SA-39.fareast.corp.microsoft.com:	B-HOST
+8042,	B-PORT
+172.22.149.145:	B-IP
+28345	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+[10.86.169.121:	B-IP
+50010,	B-PORT
+10.190.173.170:	B-IP
+50010]	B-PORT
+
+10.86.169.121:	B-IP
+50010,	B-PORT
+10.190.173.170:	B-IP
+50010:	B-PORT
+10.190.173.170:	B-IP
+50010	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+MININT-FNANLI5/	B-HOST
+127.0.0.1	B-IP
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+MININT-FNANLI5/	B-HOST
+127.0.0.1	B-IP
+msra-sa-41:	B-HOST
+9000	B-IP
+
+MININT-FNANLI5/	B-HOST
+127.0.0.1	B-IP
+msra-sa-41:	B-HOST
+9000	B-IP
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MININT-FNANLI5.fareast.corp.microsoft.com	B-HOST
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+MININT-FNANLI5/	B-HOST
+127.0.0.1	B-IP
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+MININT-FNANLI5/	B-HOST
+127.0.0.1	B-IP
+msra-sa-41:	B-HOST
+9000	B-IP
+
+MININT-FNANLI5/	B-HOST
+127.0.0.1	B-IP
+msra-sa-41:	B-HOST
+9000	B-IP
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MSRA-SA-39.fareast.corp.microsoft.com	B-HOST
+
+MININT-FNANLI5.fareast.corp.microsoft.com	B-HOST
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+
+msra-sa-41:	B-HOST
+8030.	B-PORT
+
+msra-sa-41/	B-HOST
+10.190.173.170:	B-IP
+9000	B-PORT
+msra-sa-41:	B-HOST
+9000	B-PORT
+

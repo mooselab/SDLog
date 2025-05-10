@@ -1,0 +1,8064 @@
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+183.62.156.108:	B-IP
+22	B-PORT
+socks.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn4.tencent.com:	B-HOST
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn4.tencent.com:	B-HOST
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+183.62.156.108:	B-IP
+22	B-PORT
+socks.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+tcpconn4.tencent.com:	B-HOST
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+223.167.104.147:	B-IP
+80	B-PORT
+proxy.cse.cuhk.edu.hk:	B-IP
+5070	B-PORT
+proxy.cse.cuhk.edu.hk	B-HOST
+
+tcpconn6.tencent.com:	B-HOST
+443	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+qa.sockets.stackexchange.com:	B-HOST
+443	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+formi.baidu.com:	B-HOST
+843	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+
+proxy.cse.cuhk.edu.hk:	B-HOST
+5070	B-PORT
+

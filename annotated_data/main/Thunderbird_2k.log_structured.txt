@@ -1,0 +1,19131 @@
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(run-parts	O
+/etc/cron.hourly)	B-PATH
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Local	O
+disconnected:	O
+Connection	O
+closed.	O
+
+connection	O
+lost:	O
+'Connection	O
+closed.'	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPOFFER	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+DHCPACK	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+START:	O
+tftp	O
+pid=16563	B-ID
+from=10.100.4.251	B-NET
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+DHCPACK	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPOFFER	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPOFFER	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+DHCPACK	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPOFFER	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPOFFER	O
+on	O
+10.100.4.251	B-NET
+to	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPDISCOVER	O
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+network	O
+A_net:	O
+no	O
+free	O
+leases	O
+
+DHCPREQUEST	O
+for	O
+10.100.4.251	B-NET
+(10.100.0.250)	B-NET
+from	O
+00:11:43:e3:ba:c3	B-MAC
+via	O
+eth1:	O
+unknown	O
+lease	O
+10.100.4.251.	B-NET
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+kernel	O
+time	O
+sync	O
+disabled	O
+0041	O
+
+time	O
+reset	O
++0.182379	O
+s	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Received	O
+SNMP	O
+packet(s)	O
+from	O
+#34#	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+kernel	O
+time	O
+sync	O
+enabled	O
+0001	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(/projects/tbird/temps/get_temps	B-PATH
+a)	O
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(/projects/tbird/temps/get_temps	B-PATH
+a)	O
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(/projects/tbird/temps/get_temps	B-PATH
+a)	O
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(/projects/tbird/temps/get_temps	B-PATH
+a)	O
+
+session	O
+opened	O
+for	O
+user	O
+root	B-USER
+by	O
+(uid=0)	B-ID
+
+(root)	B-USER
+CMD	O
+(/projects/tbird/temps/get_temps	B-PATH
+a)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+My	O
+unqualified	O
+host	O
+name	O
+(eadmin1)	B-USER
+unknown;	O
+sleeping	O
+for	O
+retry	O
+
+My	O
+unqualified	O
+host	O
+name	O
+(eadmin1)	B-USER
+unknown;	O
+sleeping	O
+for	O
+retry	O
+
+My	O
+unqualified	O
+host	O
+name	O
+(eadmin1)	B-USER
+unknown;	O
+sleeping	O
+for	O
+retry	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+My	O
+unqualified	O
+host	O
+name	O
+(eadmin1)	B-USER
+unknown;	O
+sleeping	O
+for	O
+retry	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+My	O
+unqualified	O
+host	O
+name	O
+(eadmin1)	B-USER
+unknown;	O
+sleeping	O
+for	O
+retry	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+CentOS-4	O
+(Kernel	O
+Module	O
+GPG	O
+key)	O
+
+(supports	O
+S0	O
+S4	O
+S5)	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+HPET	O
+id:	O
+0xffffffff	O
+base:	O
+0xfed00000	O
+
+INT_SRC_OVR	O
+(bus	O
+0	O
+bus_irq	O
+0	O
+global_irq	O
+2	O
+dfl	O
+dfl)	O
+
+INT_SRC_OVR	O
+(bus	O
+0	O
+bus_irq	O
+9	O
+global_irq	O
+9	O
+high	O
+level)	O
+
+IOAPIC	O
+(id[0x08]	O
+address[0xfec00000]	O
+gsi_base[0])	O
+
+IOAPIC	O
+(id[0x08]	O
+address[0xfec00000]	O
+gsi_base[0])	O
+
+IOAPIC	O
+(id[0x08]	O
+address[0xfec00000]	O
+gsi_base[0])	O
+
+IRQ0	O
+used	O
+by	O
+override.	O
+
+IRQ0	O
+used	O
+by	O
+override.	O
+
+IRQ0	O
+used	O
+by	O
+override.	O
+
+Interpreter	O
+enabled	O
+
+LAPIC	O
+(acpi_id[0x01]	O
+lapic_id[0x00]	O
+enabled)	O
+
+LAPIC	O
+(acpi_id[0x01]	O
+lapic_id[0x00]	O
+enabled)	O
+
+LAPIC	O
+(acpi_id[0x01]	O
+lapic_id[0x00]	O
+enabled)	O
+
+LAPIC	O
+(acpi_id[0x01]	O
+lapic_id[0x00]	O
+enabled)	O
+
+LAPIC_NMI	O
+(acpi_id[0x01]	O
+high	O
+edge	O
+lint[0x1])	O
+
+LAPIC_NMI	O
+(acpi_id[0x01]	O
+high	O
+edge	O
+lint[0x1])	O
+
+LAPIC_NMI	O
+(acpi_id[0x01]	O
+high	O
+edge	O
+lint[0x1])	O
+
+LAPIC_NMI	O
+(acpi_id[0x01]	O
+high	O
+edge	O
+lint[0x1])	O
+
+Local	O
+APIC	O
+address	O
+0xfee00000	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKA]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*14	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKB]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+*11	O
+12)	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKA]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*14	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKD]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*0,	O
+disabled.	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKD]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*0,	O
+disabled.	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKD]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*0,	O
+disabled.	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKD]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*0,	O
+disabled.	O
+
+PCI	O
+Interrupt	O
+Link	O
+[LNKD]	O
+(IRQs	O
+3	O
+4	O
+5	O
+6	O
+7	O
+10	O
+11	O
+12)	O
+*0,	O
+disabled.	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Interrupt	O
+Routing	O
+Table	O
+[\_SB_.PCI0.PALO.DOBA._PRT]	O
+
+PCI	O
+Root	O
+Bridge	O
+[PCI0]	O
+(00:00)	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+PCI	O
+interrupt	O
+0000:00:02.0[A]	O
+->	O
+GSI	O
+16	O
+(level,	O
+low)	O
+->	O
+IRQ	O
+169	O
+
+Power	O
+Button	O
+(FF)	O
+[PWRF]	O
+
+Processor	O
+[CPU0]	O
+(supports	O
+C1)	O
+
+Processor	O
+[CPU0]	O
+(supports	O
+C1)	O
+
+Processor	O
+[CPU0]	O
+(supports	O
+C1)	O
+
+Processor	O
+[CPU0]	O
+(supports	O
+C1)	O
+
+RSDP	O
+(v000	O
+DELL	O
+)	O
+@	O
+0x00000000000fd650	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+DSDT	O
+(v001	O
+DELL	B-CONFIG
+PE	O
+BKC	O
+0x00000001	O
+MSFT	O
+0x0100000e)	O
+@	O
+0x0000000000000000	O
+
+Subsystem	O
+revision	O
+20040816	O
+
+Using	O
+IOAPIC	O
+for	O
+interrupt	O
+routing	O
+
+Intel(R)	B-CONFIG
+Xeon(TM)	B-CONFIG
+CPU	O
+3.60GHz	B-CONFIG
+stepping	O
+03	O
+
+L2	O
+cache:	O
+2048K	B-CONFIG
+
+L2	O
+cache:	O
+2048K	B-CONFIG
+
+L2	O
+cache:	O
+2048K	B-CONFIG
+
+L2	O
+cache:	O
+2048K	B-CONFIG
+
+L2	O
+cache:	O
+2048K	B-CONFIG
+
+Physical	O
+Processor	O
+ID:	O
+0	O
+
+Physical	O
+Processor	O
+ID:	O
+0	O
+
+Physical	O
+Processor	O
+ID:	O
+0	O
+
+Physical	O
+Processor	O
+ID:	O
+0	O
+
+Physical	O
+Processor	O
+ID:	O
+0	O
+
+Trace	O
+cache:	O
+12K	B-CONFIG
+uops,	O
+L1	O
+D	O
+cache:	O
+16K	B-CONFIG
+
+Trace	O
+cache:	O
+12K	B-CONFIG
+uops,	O
+L1	O
+D	O
+cache:	O
+16K	B-CONFIG
+
+Trace	O
+cache:	O
+12K	B-CONFIG
+uops,	O
+L1	O
+D	O
+cache:	O
+16K	B-CONFIG
+
+Trace	O
+cache:	O
+12K	B-CONFIG
+uops,	O
+L1	O
+D	O
+cache:	O
+16K	B-CONFIG
+
+Trace	O
+cache:	O
+12K	B-CONFIG
+uops,	O
+L1	O
+D	O
+cache:	O
+16K	B-CONFIG
+
+colour	O
+VGA+	O
+80x25	O
+
+mounted	O
+filesystem	O
+with	O
+ordered	O
+data	O
+mode.	O
+
+mounted	O
+filesystem	O
+with	O
+ordered	O
+data	O
+mode.	O
+
+mounted	O
+filesystem	O
+with	O
+ordered	O
+data	O
+mode.	O
+
+sys_ia32.c,v	O
+1.32	O
+2002/03/24	O
+13:02:28	O
+ak	O
+Exp	O
+$	O
+
+apic_id	O
+8,	O
+version	O
+32,	B-CONFIG
+address	O
+0xfec00000,	O
+GSI	O
+0-23	O
+
+apic_id	O
+8,	O
+version	O
+32,	B-CONFIG
+address	O
+0xfec00000,	O
+GSI	O
+0-23	O
+
+apic_id	O
+8,	O
+version	O
+32,	B-CONFIG
+address	O
+0xfec00000,	O
+GSI	O
+0-23	O
+
+routing	O
+cache	O
+hash	O
+table	O
+of	O
+65536	O
+buckets,	O
+1024Kbytes	O
+
+PCI	O
+Hot	O
+Plug	O
+PCI	O
+Core	O
+version:	O
+0.5	B-CONFIG
+
+root=LABEL=/	O
+initrd=/x86_64/initrd-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr-admin	B-PATH
+console=tty0	O
+console=ttyS0,19200	O
+fastboot	O
+BOOT_IMAGE=/x86_64/vmlinuz-2.6.9-5.0.5.EL-lustre-1.4.2-perfctr	B-PATH
+
+Registered	O
+protocol	O
+family	O
+1	O
+
+Registered	O
+protocol	O
+family	O
+1	O
+
+Registered	O
+protocol	O
+family	O
+1	O
+
+Registered	O
+protocol	O
+family	O
+1	O
+
+Using	O
+software	O
+bounce	O
+buffering	O
+for	O
+IO	O
+(SWIOTLB)	O
+
+Probing	O
+PCI	O
+hardware	O
+(bus	O
+00)	O
+
+Transparent	O
+bridge	O
+-	O
+0000:00:1e.0	O
+
+Using	O
+ACPI	O
+for	O
+IRQ	O
+routing	O
+
+Using	O
+MMCONFIG	O
+at	O
+e0000000	O
+
+Using	O
+configuration	O
+type	O
+1	O
+
+Compressed	O
+image	O
+found	O
+at	O
+block	O
+0	O
+
+Disabled	O
+at	O
+runtime.	O
+
+Initializing.	O
+
+Registering	O
+netfilter	O
+hooks	O
+
+Starting	O
+in	O
+permissive	O
+mode	O
+
+Unregistering	O
+netfilter	O
+hooks	O
+
+Hash	O
+tables	O
+configured	O
+(established	O
+262144	O
+bind	O
+65536)	O
+
+Direct-Access	O
+ANSI	O
+SCSI	O
+revision:	O
+02	O
+
+Processor	O
+ANSI	O
+SCSI	O
+revision:	O
+02	O
+
+Disk	O
+quotas	O
+dquot_6.5.1	O
+
+Mounted	O
+root	O
+(ext2	O
+filesystem).	O
+
+MegaRAID	O
+Model:	O
+LD	O
+0	O
+RAID1	O
+139G	O
+Rev:	O
+516A	O
+
+PE/PV	O
+Model:	O
+1x2	O
+SCSI	O
+BP	O
+Rev:	O
+1.0	O
+
+initialized	O
+
+initializing	O
+netlink	O
+socket	O
+(disabled)	O
+
+passed.	O
+
+4.1.0-ioctl	O
+(2003-12-10)	O
+initialised:	O
+#36#@#37#	O
+
+allocating	O
+divert_blk	B-ID
+for	O
+eth0	O
+
+allocating	O
+divert_blk	B-ID
+for	O
+eth0	O
+
+not	O
+allocating	O
+divert_blk	O
+for	O
+non-ethernet	O
+device	O
+lo	O
+
+v2.0:USB	B-CONFIG
+HID	O
+core	O
+driver	O
+
+eth0:	O
+e1000_probe:	O
+Intel(R)	B-CONFIG
+PRO/1000	B-CONFIG
+Network	O
+Connection	O
+
+eth0:	O
+e1000_watchdog:	O
+NIC	O
+Link	O
+is	O
+Up	O
+1000	O
+Mbps	O
+Full	O
+Duplex	O
+
+eth0:	O
+e1000_probe:	O
+Intel(R)	B-CONFIG
+PRO/1000	B-CONFIG
+Network	O
+Connection	O
+
+no	O
+floppy	O
+controllers	O
+found	O
+
+RNG	O
+not	O
+detected	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+Wait	O
+for	O
+ready	O
+failed	O
+before	O
+probe	O
+!	O
+
+Assuming	O
+33MHz	O
+system	O
+bus	O
+speed	O
+for	O
+PIO	O
+modes;	O
+override	O
+with	O
+idebus=xx	O
+
+Unknown	O
+cmd	O
+fd(5)	O
+cmd(80081272){00}	O
+arg(ffffda44)	O
+on	O
+/dev/sda	B-PATH
+
+(C)	O
+2000-2002	O
+Netfilter	O
+core	O
+team	O
+
+(C)	O
+2000-2002	O
+Netfilter	O
+core	O
+team	O
+
+(C)	O
+2000-2002	O
+Netfilter	O
+core	O
+team	O
+
+(C)	O
+2000-2002	O
+Netfilter	O
+core	O
+team	O
+
+Installing	O
+public	O
+key	O
+data	O
+
+...	O
+autorun	O
+DONE.	O
+
+...	O
+autorun	O
+DONE.	O
+
+Autodetecting	O
+RAID	O
+arrays.	O
+
+Autodetecting	O
+RAID	O
+arrays.	O
+
+autorun	O
+...	O
+
+autorun	O
+...	O
+
+md	O
+driver	O
+0.90.0	O
+MAX_MD_DEVS=256,	O
+MD_SB_DISKS=27	O
+
+#38#-rh1	O
+(Release	O
+Date:	O
+Fri	O
+Dec	O
+10	O
+19:02:14	O
+EST	O
+2004)	O
+
+#38#-rh1	O
+(Release	O
+Date:	O
+Fri	O
+Dec	O
+10	O
+19:02:14	O
+EST	O
+2004)	O
+
+fw	O
+version:[516A]	B-CONFIG
+bios	O
+version:[H418]	B-CONFIG
+
+probe	O
+new	O
+device	O
+0x1028:0x0013:0x1028:0x016c:	O
+bus	O
+2:slot	O
+14:func	O
+0	O
+
+PS/2	O
+mouse	O
+device	O
+common	O
+for	O
+all	O
+mice	O
+
+v2.0	B-CONFIG
+(20020519)	O
+
+rpc.statd	O
+startup	O
+succeeded	O
+
+portmap	O
+startup	O
+succeeded	O
+
+Starting	O
+ts_fixup:	O
+succeeded	O
+
+Version	O
+1.0.6	B-CONFIG
+Starting	O
+
+LSI	O
+Logic	O
+MegaRAID	O
+driver	O
+
+scanning	O
+scsi	O
+channel	O
+0	O
+[Phy	O
+0]	O
+for	O
+non-raid	O
+devices	O
+
+scanning	O
+scsi	O
+channel	O
+1	O
+[virtual]	O
+for	O
+logical	O
+drives	O
+
+asking	O
+for	O
+cache	O
+data	O
+failed	O
+
+assuming	O
+drive	O
+cache:	O
+write	O
+through	O
+
+sda1	O
+sda2	O
+sda3	O
+sda4	O
+
+Registering	O
+secondary	O
+module	O
+capability	O
+
+i8042	O
+AUX	O
+port	O
+at	O
+0x60,0x64	O
+irq	O
+12	O
+
+i8042	O
+KBD	O
+port	O
+at	O
+0x60,0x64	O
+irq	O
+1	O
+
+syslog-ng	O
+startup	O
+succeeded	O
+
+syslog-ng	O
+version	O
+1.6.7	B-CONFIG
+starting	O
+
+Detected	O
+3591.360	B-CONFIG
+MHz	O
+processor.	O
+
+Using	O
+14.318180	O
+MHz	O
+HPET	O
+timer.	O
+
+Using	O
+HPET	O
+based	O
+timekeeping.	O
+
+Creating	O
+Topspin	O
+/dev	O
+entries:	O
+
+registered	O
+new	O
+driver	O
+hiddev	O
+
+registered	O
+new	O
+driver	O
+hub	O
+
+registered	O
+new	O
+driver	O
+usbfs	O
+
+registered	O
+new	O
+driver	O
+usbhid	O
+
+probe	O
+of	O
+vesafb0	O
+failed	O
+with	O
+error	O
+-6	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+connection	O
+from	O
+"#28#"	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+User	O
+#29#,	O
+coming	O
+from	O
+#30#,	O
+authenticated.	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Now	O
+running	O
+on	O
+#29#'s	O
+privileges.	O
+
+Local	O
+disconnected:	O
+Connection	O
+closed.	O
+
+connection	O
+lost:	O
+'Connection	O
+closed.'	O
+
+Mounting	O
+NFS	O
+filesystems:	O
+succeeded	O
+
+Mounting	O
+other	O
+filesystems:	O
+failed	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+connection	O
+from	O
+"#28#"	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+data	O
+source	O
+name	O
+an14	O
+an15	O
+an16	O
+an17	O
+an18	O
+an19	O
+an20	O
+an21	O
+an22	O
+an23	O
+an24	O
+an25	O
+an26	O
+an27	O
+an28	O
+an29	O
+an30	O
+an31	O
+an32	O
+an33	O
+an34	O
+an35	O
+an36	O
+an37	O
+an38	O
+an39	O
+an40	O
+an41	O
+an42	O
+an43	O
+an44	O
+an45	O
+an46	O
+an47	O
+an48	O
+an49	O
+an50	O
+an51	O
+an52	O
+an53	O
+an54	O
+an55	O
+an56	O
+an57	O
+an58	O
+an59	O
+an60	O
+an61	O
+an62	O
+an63	O
+an64	O
+an65	O
+an66	O
+an67	O
+an68	O
+an69	O
+an70	O
+an71	O
+an72	O
+an73	O
+an74	O
+an75	O
+an76	O
+an77	O
+an78	O
+an79	O
+an80	O
+an81	O
+an82	O
+an83	O
+an84	O
+an85	O
+an86	O
+an87	O
+an88	O
+an89	O
+an90	O
+an91	O
+an92	O
+an93	O
+an94	O
+an95	O
+an96	O
+an97	O
+an98	O
+an99	O
+an100	O
+an101	O
+an102	O
+an103	O
+an104	O
+an105	O
+an106	O
+an107	O
+an108	O
+an109	O
+an110	O
+an111	O
+an112	O
+an113	O
+an114	O
+an115	O
+an116	O
+an117	O
+an118	O
+an119	O
+an120	O
+an121	O
+an122	O
+an123	O
+an124	O
+an125	O
+an126	O
+an127	O
+an128	O
+
+Warning:	O
+we	O
+failed	O
+to	O
+resolve	O
+trusted	O
+host	O
+name	O
+dadmin3	B-USER
+dadmin4	B-USER
+
+gmetad	O
+startup	O
+succeeded	O
+
+Now	O
+running	O
+on	O
+#29#'s	O
+privileges.	O
+
+User	O
+#29#,	O
+coming	O
+from	O
+#30#,	O
+authenticated.	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Registered	O
+protocol	O
+family	O
+1	O
+
+not	O
+allocating	O
+divert_blk	O
+for	O
+non-ethernet	O
+device	O
+lo	O
+
+succeeded	O
+
+Server	O
+listening	O
+on	O
+::	O
+port	O
+22.	O
+
+error:	O
+Bind	O
+to	O
+port	O
+22	B-NET
+on	O
+0.0.0.0	B-NET
+failed:	O
+Address	O
+already	O
+in	O
+use.	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Cannot	O
+open	O
+file	O
+/dev/logsurfer	B-PATH
+for	O
+writing	O
+(No	O
+such	O
+file	O
+or	O
+directory)	O
+
+Changing	O
+permissions	O
+on	O
+special	O
+file	O
+/dev/logsurfer	B-PATH
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+succeeded	O
+
+xinetd	O
+startup	O
+succeeded	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Reading	O
+included	O
+configuration	O
+file:	O
+/etc/xinetd.d/chargen	B-PATH
+[file=/etc/xinetd.conf]	B-PATH
+[line=15]	O
+
+Started	O
+working:	O
+1	O
+available	O
+service	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+removing	O
+chargen	O
+
+xinetd	O
+Version	O
+2.3.13	B-CONFIG
+started	O
+with	O
+libwrap	O
+loadavg	O
+options	O
+compiled	O
+in.	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+RRD_update	O
+(/var/lib/ganglia/rrds/C	B-PATH
+Nodes/cn304/pkts_out.rrd):	B-PATH
+illegal	O
+attempt	O
+to	O
+update	O
+using	O
+time	O
+1131563037	O
+when	O
+last	O
+update	O
+time	O
+is	O
+1131563037	O
+(minimum	O
+one	O
+second	O
+step)	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+unable	O
+to	O
+qualify	O
+my	O
+own	O
+domain	O
+name	O
+(eadmin1)	B-USER
+--	O
+using	O
+short	O
+name	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+session	O
+closed	O
+for	O
+user	O
+root	B-USER
+
+jA9J1UvC004306:	O
+from=root,	B-USER
+size=629060,	O
+class=0,	O
+nrcpts=1,	O
+msgid=<200511091901.jA9J1UvC004306@eadmin1>,	B-ID
+relay=#7#@localhost	B-NET
+
+jA9J1UvC004306:	O
+to=root,	B-USER
+ctladdr=root	B-USER
+(0/0),	O
+delay=00:00:01,	O
+xdelay=00:00:00,	O
+mailer=relay,	O
+pri=659060,	O
+relay=[127.0.0.1]	B-NET
+[127.0.0.1],	B-NET
+dsn=4.0.0,	O
+stat=Deferred:	O
+Connection	O
+refused	O
+by	O
+[127.0.0.1]	B-NET
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Local	O
+disconnected:	O
+Connection	O
+closed.	O
+
+connection	O
+lost:	O
+'Connection	O
+closed.'	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+Device:	O
+/dev/sda,	B-PATH
+Temperature	O
+changed	O
+-2	O
+Celsius	O
+to	O
+26	O
+Celsius	O
+since	O
+last	O
+report	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1831]:	O
+**********************	O
+NEW	O
+SWEEP	O
+********************	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+[ib_sm_sweep.c:1455]:	O
+No	O
+topology	O
+change	O
+
+[ib_sm_sweep.c:1482]:	O
+No	O
+configuration	O
+change	O
+required	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+data_thread()	O
+got	O
+not	O
+answer	O
+from	O
+any	O
+[Thunderbird_A8]	O
+datasource	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+
+synchronized	O
+to	O
+10.100.20.250,	B-NET
+stratum	O
+3	O
+

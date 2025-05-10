@@ -1,0 +1,19511 @@
+Registered	O
+signal	O
+handlers	O
+for	O
+[TERM,	O
+HUP,	O
+INT]	O
+
+Changing	O
+view	O
+acls	O
+to:	O
+yarn,curi	O
+
+Changing	O
+modify	O
+acls	O
+to:	O
+yarn,curi	O
+
+SecurityManager:	O
+authentication	O
+disabled;	O
+ui	O
+acls	O
+disabled;	O
+users	O
+with	O
+view	O
+permissions:	O
+Set(yarn,	O
+curi);	O
+users	O
+with	O
+modify	O
+permissions:	O
+Set(yarn,	O
+curi)	O
+
+Changing	O
+view	O
+acls	O
+to:	O
+yarn,curi	O
+
+Changing	O
+modify	O
+acls	O
+to:	O
+yarn,curi	O
+
+SecurityManager:	O
+authentication	O
+disabled;	O
+ui	O
+acls	O
+disabled;	O
+users	O
+with	O
+view	O
+permissions:	O
+Set(yarn,	O
+curi);	O
+users	O
+with	O
+modify	O
+permissions:	O
+Set(yarn,	O
+curi)	O
+
+Slf4jLogger	O
+started	O
+
+Starting	O
+remoting	O
+
+Remoting	O
+started;	O
+listening	O
+on	O
+addresses	O
+:[akka.tcp://sparkExecutorActorSystem@mesos-slave-07:55904]	B-URL
+
+Successfully	O
+started	O
+service	O
+'sparkExecutorActorSystem'	O
+on	O
+port	O
+55904.	B-NET
+
+Created	O
+local	O
+directory	O
+at	O
+/opt/hdfs/nodemanager/usercache/curi/appcache/application_1485248649253_0147/blockmgr-70293f72-844a-4b39-9ad6-fb0ad7e364e4	B-PATH
+
+MemoryStore	O
+started	O
+with	O
+capacity	O
+17.7	B-CONFIG
+GB	O
+
+Connecting	O
+to	O
+driver:	O
+spark://CoarseGrainedScheduler@10.10.34.11:48069	B-URL
+
+Successfully	O
+registered	O
+with	O
+driver	O
+
+Starting	O
+executor	O
+ID	O
+5	B-ID
+on	O
+host	O
+mesos-slave-07	B-NET
+
+Successfully	O
+started	O
+service	O
+'org.apache.spark.network.netty.NettyBlockTransferService'	O
+on	O
+port	O
+40984.	B-NET
+
+Server	O
+created	O
+on	O
+40984	O
+
+Trying	O
+to	O
+register	O
+BlockManager	O
+
+Registered	O
+BlockManager	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+mapred.tip.id	O
+is	O
+deprecated.	O
+Instead,	O
+use	O
+mapreduce.task.id	O
+
+mapred.task.id	O
+is	O
+deprecated.	O
+Instead,	O
+use	O
+mapreduce.task.attempt.id	O
+
+mapred.task.is.map	O
+is	O
+deprecated.	O
+Instead,	O
+use	O
+mapreduce.task.ismap	O
+
+mapred.job.id	O
+is	O
+deprecated.	O
+Instead,	O
+use	O
+mapreduce.job.id	O
+
+mapred.task.partition	O
+is	O
+deprecated.	O
+Instead,	O
+use	O
+mapreduce.task.partition	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+File	O
+Output	O
+Committer	O
+Algorithm	O
+version	O
+is	O
+1	B-CONFIG
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+Saved	O
+output	O
+of	O
+task	O
+'attempt_201706092018_0024_m_000003_1012'	B-ID
+to	O
+hdfs://10.10.34.11:9000/pjhe/test/1/_temporary/0/task_201706092018_0024_m_000003	B-URL
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+attempt_201706092018_0024_m_000004_1026:	B-ID
+Committed	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Partition	O
+rdd_2_1	B-ID
+not	O
+found,	O
+computing	O
+it	O
+
+Input	O
+split:	O
+hdfs://10.10.34.11:9000/pjhe/logs/2kSOSP.log:21876+7292	B-URL
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Started	O
+reading	O
+broadcast	O
+variable	O
+9	O
+
+Block	O
+broadcast_9_piece0	B-ID
+stored	O
+as	O
+bytes	O
+in	O
+memory	O
+(estimated	O
+size	O
+5.2	B-CONFIG
+KB,	O
+free	O
+5.2	B-CONFIG
+KB)	O
+
+Reading	O
+broadcast	O
+variable	O
+9	O
+took	O
+160	O
+ms	O
+
+Block	O
+broadcast_9	B-ID
+stored	O
+as	O
+values	O
+in	O
+memory	O
+(estimated	O
+size	O
+8.8	B-CONFIG
+KB,	O
+free	O
+14.0	B-CONFIG
+KB)	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Times:	O
+total	O
+=	O
+1072,	O
+boot	O
+=	O
+856,	O
+init	O
+=	O
+210,	O
+finish	O
+=	O
+6	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
+Finished	O
+task	O
+3.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+3).	B-ID
+2703	O
+bytes	O
+result	O
+sent	O
+to	O
+driver	O
+
+Got	O
+assigned	O
+task	O
+0	O
+
+Running	O
+task	O
+0.0	O
+in	O
+stage	O
+0.0	O
+(TID	O
+0)	B-ID
+
+Found	O
+block	O
+rdd_2_0	B-ID
+locally	O
+
