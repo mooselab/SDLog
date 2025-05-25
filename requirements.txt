@@ -1,0 +1,9 @@
+torch==2.7.0
+datasets==2.19.1
+evaluate==0.4.3
+numpy==2.2.5
+scikit_learn==1.6.1
+transformers==4.51.3
+seqeval==1.2.2
+accelerate==0.26.0
+spacy==3.7.2
