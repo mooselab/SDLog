@@ -2,7 +2,7 @@
 
 ## Do you need to find sensitive information in your software logs?
 
-SDLog is a powerful, deep learning-based framework designed to **automatically identify sensitive information in software logs**. Unlike traditional regular expressions that struggle with the diverse and unstructured nature of real-world logs, SDLog leverages contextual understanding to accurately detect Personally Identifiable Information (PII). You can use SDLog out-of-the-box with pre-trained models, or for even better performance specific to your specific log formats, **easily fine-tune it with as few as 100 of your own labeled log samples** to achieve near-perfect detection.
+SDLog is a powerful, deep learning-based framework designed to **automatically identify sensitive information in software logs**. Unlike traditional regular expressions that struggle with the diverse and unstructured nature of real-world logs, SDLog leverages contextual understanding to accurately detect Personally Identifiable Information (PII). You can use the pre-trained SDLog, or, to achieve even better performance on your specific log formats, **you can easily fine-tune it with as few as 100 labeled log samples**, enabling near-perfect detection.
 
 ---
 
@@ -44,7 +44,7 @@ SDLog can be used for sensitive information detection out-of-the-box or fine-tun
 
 To anonymize your logs using the pre-trained SDLog model:
 
-* **Place your dataset:** Put your log file with the name `logs.txt` into the following directory:
+* **Add your dataset:** Put your log file with the name `logs.txt` into the following directory:
     ```
     target_dataset/1-raw_datasets/main/
     ```
@@ -58,7 +58,7 @@ To anonymize your logs using the pre-trained SDLog model:
 
 For enhanced performance, you can fine-tune SDLog.
 
-* **Place your dataset and labels:**
+* **Add your dataset and labels:**
     * Put your log file named `logs.txt` and your corresponding labels file named `labels.txt` into:
         ```
         target_dataset/1-raw_datasets/main/
@@ -70,6 +70,11 @@ For enhanced performance, you can fine-tune SDLog.
     ```
     * The `--num_finetuned_logs` argument specifies the number of log entries (with sensitive information) from your dataset that will be used for fine-tuning. This argument is **optional**. If you remove it, the entire dataset found in `target_dataset/1-raw_datasets/main/logs.txt` will be used for fine-tuning.
 * **Run the fine-tuning script:**
+    ```bash
+    python scripts/2-fine-tuning_SDLog/run_fine_tuning.py --num_train_epochs 3
+    ```
+    The `--num_finetuned_logs` argument specifies the number of epochs for fine-tuning. This argument is **optional** and the default epoch value is 2.
+* **Run the anonymization script:**
     ```bash
     python scripts/3-run_SDLog/run_sdlog.py --model finetuned --attribute all
     ```
