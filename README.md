@@ -44,10 +44,8 @@ SDLog can be used for sensitive information detection out-of-the-box or fine-tun
 
 To anonymize your logs using the pre-trained SDLog model:
 
-* **Add your dataset:** Put your log file with the name `logs.txt` into the following directory:
-    ```
-    target_dataset/1-raw_datasets/main/
-    ```
+* **Add your dataset:** Put your log file with the name `logs.txt` into the following directory: 
+`target_dataset/1-raw_datasets/main/`
 * **Run the anonymization script:**
     ```bash
     python scripts/3-run_SDLog/run_sdlog.py --model main --attribute all
@@ -59,10 +57,7 @@ To anonymize your logs using the pre-trained SDLog model:
 For enhanced performance, you can fine-tune SDLog.
 
 * **Add your dataset and labels:**
-    * Put your log file named `logs.txt` and your corresponding labels file named `labels.txt` into:
-        ```
-        target_dataset/1-raw_datasets/main/
-        ```
+    * Put your log file named `logs.txt` and your corresponding labels file named `labels.txt` into: `target_dataset/1-raw_datasets/main/`
 * **Run preprocessing steps:**
     ```bash
     python scripts/1-preprocessing/preprocessing_main.py
